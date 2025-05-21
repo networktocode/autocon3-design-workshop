@@ -25,10 +25,10 @@ What can you do ahead of time?
 
 The following diagram shows the architecture of the lab environment.
 
-![Lab Architecture](./lab_guide/99.lab_architecture.png)
+![Lab Architecture](./lab_guide/images/lab_architecture.png)
 
 ## About the lab guide
 The lab guide has been created using Scribe, an AI tool that allows you to create step-by-step guides by recording your screen and generate a tutorial document with screenshots and instructions. I recommend that you log into their portal and also add their extension to your browser. It may seem a bit intrusive but it greatly enhances your ability to follow the guide. You can find the original Scribe document [here](https://scribehow.com/page/AutoCon_3_or_WSD2__LmswNs-LSV-hIP1nlgfQrw).
 
-For those of you that prefer not to use it (totally understandable choice), I have also created a Markdown version of the guide. You can find it [here](./lab_guide/99.Lab%20Guide.md).
+For those of you that prefer not to use it (totally understandable choice), I have also created a Markdown version of the guide. You can find it [here](./lab_guide/99.lab_guide.md).
 
